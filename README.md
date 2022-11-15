@@ -2,7 +2,7 @@
 
 PhD student at École Polytechnique, working on simulating virtual crowds through Deep Reinforcement Learning. Check out my [recent paper](https://arxiv.org/abs/2209.09344)! In the past I was at University of Warsaw, KTH Royal Institute of Technology, and Aalto University.
 
-In my free time, I'm a maintainer of [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (the official continuation of [OpenAI Gym](https://github.com/openai/gym)), sometimes reviewing other people's bugs, sometimes adding my own bugs... I mean, features. Sometimes I also help with [PettingZoo](https://github.com/Farama-Foundation/PettingZoo), [SuperSuit](https://github.com/Farama-Foundation/SuperSuit) and other projects in the [Farama Foundation](https://farama.org/).
+In my free time, I'm the maintainer of [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (the official continuation of [OpenAI Gym](https://github.com/openai/gym)), sometimes reviewing other people's bugs, sometimes adding my own bugs... I mean, features. Sometimes I also help with [PettingZoo](https://github.com/Farama-Foundation/PettingZoo), [SuperSuit](https://github.com/Farama-Foundation/SuperSuit) and other projects in the [Farama Foundation](https://farama.org/).
 
 My two main personal projects are [Coltra](https://github.com/RedTachyon/coltra-rl) and [CrowdAI](https://github.com/RedTachyon/CrowdAI), which both form the core of my PhD research. Coltra is a somewhat general DRL library, designed to work seamlessly with multiagent environments and complex observation spaces. CrowdAI is a crowd simulation engine built on top of Unity ML-Agents in which I animate my crowds.
 
