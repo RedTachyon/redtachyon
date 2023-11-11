@@ -6,7 +6,7 @@ In my free time, I'm the maintainer of [Gymnasium](https://github.com/Farama-Fou
 
 My two main personal projects are [Coltra](https://github.com/RedTachyon/coltra-rl) and [CrowdAI](https://github.com/RedTachyon/CrowdAI), which both form the core of my PhD research. Coltra is a somewhat general DRL library, designed to work seamlessly with multiagent environments and complex observation spaces. CrowdAI is a crowd simulation engine built on top of Unity ML-Agents in which I animate my crowds.
 
-If you're interested in collaborating/hiring me/something of that sort, that might be a bit tricky at the moment. I'm open to contributions to Coltra, but I'm not ready to make it community-driven just yet. I'm generally not available for internships (unless you're DeepMind or something) before I graduate, which should happend around October 2023. Might be up for some freelancing, consulting and the like. And open-source contributions -- depending on my bandwidth. But if we already talked (e.g. on the [RL Discord](https://discord.gg/FJZnzTENRp)), chances are, I'll be up to help you with whatever you need.
+If you're interested in collaborating/hiring me/something of that sort, that might be a bit tricky at the moment. I'm open to contributions to Coltra, and ready to make it more community-driven, after a bit of extra code cleanup. Might be up for some freelancing, consulting and the like. And open-source contributions -- depending on my bandwidth. But if we already talked (e.g. on the [RL Discord](https://discord.gg/FJZnzTENRp)), chances are, I'll be up to help you with whatever you need.
 
 Erdős number <= 4
 
