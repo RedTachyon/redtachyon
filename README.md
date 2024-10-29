@@ -1,5 +1,8 @@
 [![Ariel's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTachyon&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=redtachyon)
+
+
 Research Engineer at Meta. PhD from École Polytechnique, my thesis topic was "Simulating Crowds with Reinforcement Learning". In the past I was at University of Warsaw, KTH Royal Institute of Technology, and Aalto University.
 
 In my free time, I'm the maintainer of [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (the official continuation of [OpenAI Gym](https://github.com/openai/gym)), sometimes reviewing other people's bugs, sometimes adding my own bugs... I mean, features. Sometimes I also help with [PettingZoo](https://github.com/Farama-Foundation/PettingZoo), [SuperSuit](https://github.com/Farama-Foundation/SuperSuit) and other projects in the [Farama Foundation](https://farama.org/).
