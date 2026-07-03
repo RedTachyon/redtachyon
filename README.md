@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=redtachyon)
 
 
-Until recently, Research Engineer at Meta. Now temporarily funemployed, updates coming soon. PhD from École Polytechnique, my thesis topic was "Simulating Crowds with Reinforcement Learning". In the past I was at University of Warsaw, KTH Royal Institute of Technology, and Aalto University.
+Research Scientist at Apple. Before, I was a Research Engineer at Meta. PhD from École Polytechnique, my thesis topic was "Simulating Crowds with Reinforcement Learning". In the past I was at University of Warsaw, KTH Royal Institute of Technology, and Aalto University.
 
 Back in the day I was maintaining [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) (the official continuation of [OpenAI Gym](https://github.com/openai/gym)), sometimes reviewing other people's bugs, sometimes adding my own bugs... I mean, features. Sometimes I also helped with [PettingZoo](https://github.com/Farama-Foundation/PettingZoo), [SuperSuit](https://github.com/Farama-Foundation/SuperSuit) and other projects in the [Farama Foundation](https://farama.org/).
 
