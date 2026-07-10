@@ -1,5 +1,5 @@
-# [![Ariel's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTachyon&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Ariel's's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedTachyon&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ![](https://komarev.com/ghpvc/?username=redtachyon)
 
 
